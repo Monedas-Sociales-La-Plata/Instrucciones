@@ -15,4 +15,4 @@ En los tres casos, estas **"intervenciones"** podran ser hechas y corregidas en 
 - Presentacion = "Pull request"
 - Incorporacion = "Merge"
 
-Espero poder darles una mejor explicacion de como utilizar esta herramienta de manera simple! Les dejo mi email para cualquier duda o consulta d1urno@gmx.com
+Espero poder darles una mejor explicacion de como utilizar esta herramienta de la manera mas simple y conveniente! Les dejo mi email para cualquier duda o consulta d1urno@gmx.com
