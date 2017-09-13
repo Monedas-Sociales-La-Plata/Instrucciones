@@ -17,7 +17,7 @@ Aunque, opcionalmente, las contribuciones concluidas podran ser **"presentadas"*
 - "Commit" = Contribuciones
 - "Push" = Incorporacion directa de contribuciones (sin revision)
 - "Pull request" = Presentacion de contribuciones para que sean revisadas
-- "Merge" = Aprovacion e incorporacion de contribuciones ya revisadas
+- "Merge" = Aprobacion e incorporacion de contribuciones ya revisadas
 
 Les dejo el archivo [Text.md](https://github.com/Monedas-Sociales-La-Plata/Moneda-Social/blob/Base/Test.md) para que hagan cualquier tipo de edicion a modo de prueba :)
 
