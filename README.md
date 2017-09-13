@@ -19,4 +19,4 @@ Aunque, opcionalmente, las contribuciones concluidas podran ser **"presentadas"*
 
 Les dejo el archivo [Text.md](https://github.com/Monedas-Sociales-La-Plata/Moneda-Social/blob/Base/Test.md) para que hagan cualquier tipo de edicion a modo de prueba :)
 
-Espero poder darles una mejor explicacion de como utilizar esta herramienta de la manera mas simple y conveniente! Les dejo mi email para cualquier duda o consulta d1urno@gmx.com
+Espero poder darles una mejor explicacion de como utilizar esta herramienta de la manera mas simple y conveniente, mi email para cualquier duda o consulta d1urno@gmx.com, o pueden consultarme editando algun texto aqui mismo asi todos repasamos la consulta!
