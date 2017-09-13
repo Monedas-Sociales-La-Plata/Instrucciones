@@ -10,13 +10,17 @@ Pero, sera necesario [crear una cuenta en GitHub](https://github.com/join) para:
 
 De manera inicial, y para simplificar el proceso, estas **"contribuciones"** seran realizadas indiscriminadamente, y una vez concluidas, podran ser **"incorporadas"** a la carpeta "Base", sin revision ni autorizacion por parte del grupo.
 
-Aunque, opcionalmente, las contribuciones concluidas podran ser **"presentadas"**, para que puedan ser revisadas y discutidas por todos, antes de ser incorporadas o rechazadas por los administradores del contenido. (Este proceso requiere un poco mas de comprension, pero vale la pena ponerlo en practica!)
+Aunque, opcionalmente, las contribuciones concluidas podran ser **"presentadas"**, para que puedan ser revisadas y discutidas por todos, antes de ser **"aprovadas"** e incorporadas, o rechazadas por los administradores del contenido. (Este proceso requiere un poco mas de comprension, pero vale la pena ponerlo en practica!)
 
+## Explicacion de los terminos
 - "New branch" = Copia del contenido original
-- "Commit" = Contribucion
-- "Pull request" = Presentacion de contribuciones
-- "Merge" = Incorporacion de contribuciones
+- "Commit" = Contribuciones
+- "Push" = Incorporacion directa de contribuciones (sin revision)
+- "Pull request" = Presentacion de contribuciones para que sean revisadas
+- "Merge" = Aprovacion e incorporacion de contribuciones ya revisadas
 
 Les dejo el archivo [Text.md](https://github.com/Monedas-Sociales-La-Plata/Moneda-Social/blob/Base/Test.md) para que hagan cualquier tipo de edicion a modo de prueba :)
+
+Recomiendo que instalen la aplicacion "FastHub" en sus telefonos, para tener facil acceso y mantenerse al dia con todo lo que sucede en este espacio
 
 Espero poder darles una mejor explicacion de como utilizar esta herramienta de la manera mas simple y conveniente, mi email para cualquier duda o consulta d1urno@gmx.com, o pueden consultarme editando algun texto aqui mismo asi todos repasamos la consulta!
