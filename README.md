@@ -1,5 +1,4 @@
-# Proyecto de moneda social en La Plata
-## Instrucciones de uso
+# Instrucciones de uso
 En este lugar se guardaran todos los archivos, informacion y aportes del grupo.
 El material que aqui se encuentra puede ser libremente descargado en sus PCs.
 
@@ -12,7 +11,7 @@ De manera inicial, y para simplificar el proceso, estas **"contribuciones"** ser
 
 Aunque, opcionalmente, las contribuciones concluidas podran ser **"presentadas"**, para que puedan ser revisadas y discutidas por todos, antes de ser **"aprovadas"** e incorporadas, o rechazadas por los administradores del contenido. (Este proceso requiere un poco mas de comprension, pero vale la pena ponerlo en practica!)
 
-## Explicacion de los terminos
+### Explicacion de los terminos
 - "New branch" = Copia del contenido original
 - "Commit" = Contribuciones
 - "Push" = Incorporacion directa de contribuciones (sin revision)
